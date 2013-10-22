@@ -22,8 +22,8 @@ If you would like to remove certain files, you can do so by commenting out the c
 In order to access or override variables and mixins, you will need to import the bootstrap less files into your own less file.
 
 ```css
-@import packages/bootstrap-src/less/bootstrap.less;
-@import packages/bootstrap-src/less/responsive.less;
+@import 'packages/bootstrap-src/less/bootstrap.less';
+@import 'packages/bootstrap-src/less/responsive.less';
 
 // Override variables and mixins here.
 

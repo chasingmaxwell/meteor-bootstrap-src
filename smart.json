@@ -1,8 +1,9 @@
 {
   "name": "bootstrap-src",
   "description": "Twitter Bootstrap source files",
-  "author": "Peter Sieg",
-  "version": "1.0.0",
+  "author": "Peter Sieg (http://petersieg.me)",
+  "version": "2.3.2.2",
+  "git": "https://github.com/chasingmaxwell/bootstrap-src.git",
   "packages": {
   }
 }

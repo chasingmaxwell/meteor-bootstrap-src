@@ -5,7 +5,14 @@ A smart package for the Meteor platform providing Twitter Bootstrap source files
 
 ## How to install:
 
-1. Navigate to your app's packages directory. `cd yourapp/packages`
+### Quickstart (meteorite/atmosphere).
+
+1. Navigate to your app's directory. `cd ~/pathto/yourapp`
+2. Add bootstrap-src. `mrt add bootstrap-src`
+
+### For developers or control freaks (like me).
+
+1. Navigate to your app's packages directory. `cd ~/pathto/yourapp/packages`
 2. Clone this repo into your packages directory. `git clone https://github.com/chasingmaxwell/bootstrap-src.git`
 3. Add this package to your meteor app. `meteor add bootstrap-src`
 

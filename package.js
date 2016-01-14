@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-  api.use(['less'], 'client');
+  api.use(['less', 'jquery'], 'client');
 
   api.add_files([
     'less/bootstrap.less',
